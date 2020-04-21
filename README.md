@@ -47,3 +47,6 @@ have hardly changed execution times; the only apparent change with their
 activation is that runtime has become more consistent, with standard
 deviation decreasing as shared memory is added, and even further
 decreasing as usNIC is enabled.
+
+## 4. Something else about part 3.
+![Final output of the program in part 3](output.png)

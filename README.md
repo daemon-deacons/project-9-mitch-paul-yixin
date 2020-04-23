@@ -21,7 +21,11 @@
 
 ![Average of run times](p2avg.png)
 
+<<<<<<< HEAD
 ![Standard deviation of run times](p2avg.png)
+=======
+![Standard deviation of run times](p2sd.png)
+>>>>>>> 9bac2fc0191b781dfe396f90bbe0f36cabc5389f
 
 ### Why do you think there is a difference in the execution times?
 
@@ -37,7 +41,11 @@ variability in execution time.
 
 ![Average of run times](p3avg.png)
 
+<<<<<<< HEAD
 ![Standard deviation of run times](p3avg.png)
+=======
+![Standard deviation of run times](p3sd.png)
+>>>>>>> 9bac2fc0191b781dfe396f90bbe0f36cabc5389f
 
 ### Why do you think there is a difference in the execution times?
 
@@ -47,3 +55,11 @@ have hardly changed execution times; the only apparent change with their
 activation is that runtime has become more consistent, with standard
 deviation decreasing as shared memory is added, and even further
 decreasing as usNIC is enabled.
+<<<<<<< HEAD
+=======
+
+## 4. Something else about part 3.
+
+![Final output of the program in part 3](output.png)
+
+>>>>>>> 9bac2fc0191b781dfe396f90bbe0f36cabc5389f

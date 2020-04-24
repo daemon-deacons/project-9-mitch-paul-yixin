@@ -38,6 +38,7 @@ variability in execution time.
 
 ![Average of run times](p3avg.png)
 
+
 ![Standard deviation of run times](p3std.png)
 
 

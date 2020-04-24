@@ -38,15 +38,15 @@ variability in execution time.
 
 ![Average of run times](p3avg.png)
 
-![Standard deviation of run times](p3sd.png)
+![Standard deviation of run times](p3std.png)
 
 
 ### Why do you think there is a difference in the execution times?
 
 In this run, the limitiing factor does not seem to have been
 inter-process communication, as the shared memory and usNIC activations
-have hardly changed execution times; the only apparent change with their
-activation is that runtime has become more consistent, with standard
-deviation decreasing as shared memory is added, and even further
+did not significantly chang execution times, given the large standard deviation;
+the only apparent change with their activation is that runtime has become more consistent, 
+with standarddeviation decreasing as shared memory is added, and even further
 decreasing as usNIC is enabled.
 
